@@ -1,0 +1,30 @@
+  292  git init
+  293  touch main.js index.html comandos.txt
+  294  git commit -m "commit 01 de LinaAlvarado"
+  295  git add .
+  296  git commit -m "commit 01 de LinaAlvarado"
+  297  git remote add origin https://github.com/LinaAlvarado/20230605-LinaAlvarado.git
+  298  git push -u origin main
+  299  git checkout -b feature
+  300  mkdir Hardware Software SeguridadInformatica
+  301  cd Hardware/
+  302  touch resumen.txt
+  303  ..
+  304  cd ..
+  305  cd Software/
+  306  touch resumen.txt
+  307  cd ..
+  308  cd SeguridadInformatica/
+  309  touch resumen.txt
+  310  git add.
+  311  git add .
+  312  git commit -m "commit 02  de LinaAlvarado"
+  313  git push
+  314  git push --set-upstream origin feature
+  315  git branch main
+  316  git checkout main
+  317  mv main.js resumenHardware.txt
+  318  cd ..
+  319  mv main.js resumenHardware.txt
+  320  mv index.html resumenSoftware.txt
+  321  history
